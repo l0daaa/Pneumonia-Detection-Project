@@ -1,0 +1,5 @@
+{
+  "name": "NeuroScan AI - Pneumonia Detection",
+  "description": "Advanced AI-powered medical image analysis tool for instant pneumonia detection from chest X-rays.",
+  "requestFramePermissions": []
+}
