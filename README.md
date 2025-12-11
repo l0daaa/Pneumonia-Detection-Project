@@ -1,9 +1,5 @@
 # NeuroScan AI - Pneumonia Detection
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 ## 🩺 Overview
 
 **NeuroScan AI** is an advanced medical imaging application that uses state-of-the-art artificial intelligence to detect pneumonia from chest X-ray images. Built with React and powered by Google's Gemini AI, this application provides fast, accurate diagnostic insights to support medical professionals in their clinical decision-making.
