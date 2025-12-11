@@ -1,11 +1,11 @@
 
-import { 
-  UploadCloud, 
-  Wand2, 
-  ScanLine, 
-  FileText, 
-  CheckCircle2, 
-  AlertCircle, 
+import {
+  UploadCloud,
+  Wand2,
+  ScanLine,
+  FileText,
+  CheckCircle2,
+  AlertCircle,
   Loader2,
   X,
   ChevronRight,
@@ -23,7 +23,12 @@ import {
   User,
   Send,
   Bot,
-  Calendar
+  Calendar,
+  ArrowLeft,
+  AlertTriangle,
+  BarChart3,
+  Moon,
+  Sun
 } from 'lucide-react';
 
 export {
@@ -50,5 +55,10 @@ export {
   User,
   Send,
   Bot,
-  Calendar
+  Calendar,
+  ArrowLeft,
+  AlertTriangle,
+  BarChart3,
+  Moon,
+  Sun
 };

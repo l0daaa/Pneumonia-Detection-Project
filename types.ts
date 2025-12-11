@@ -38,4 +38,4 @@ export interface HistoryItem extends AnalysisResult {
   imageUrl: string; // Base64 thumbnail
 }
 
-export type ViewType = 'LANDING' | 'DASHBOARD_ANALYZER' | 'DASHBOARD_HISTORY' | 'DASHBOARD_CHAT';
+export type ViewType = 'LANDING' | 'DASHBOARD_ANALYZER' | 'DASHBOARD_HISTORY' | 'DASHBOARD_CHAT' | 'DASHBOARD_DETAIL';
